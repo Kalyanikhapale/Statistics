@@ -1,1 +1,1 @@
-# Statistics-PW-Assignments
+# Statistics-Physics Wallah-Assignments
